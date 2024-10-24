@@ -27,10 +27,10 @@ pip install -r requirements.txt
 ```
 
 ## Usage 
-This project currently depends on simulation data from the CMS High Granularity Colorimeter (HGCal), which models the collection of events that are anticipated during the HL-LHC upgrade. To be continued soon ...
+This project currently depends on simulation data from the CMS High Granularity Colorimeter (HGCal), which models the collection of events that are anticipated during the HL-LHC upgrade. To run the main Python notebook script, 'LatentSpace_Visualization.ipynb', which visualizes the embedded latent representations, you will need the saved weights from the original CAE, as well as at least one ntuple.root file from the testing dataset.
 
 ## Methodology 
 
 ## Demos
-This repo also includes several demonstartions of different techniques to visualize the latent space. They are found within the `demos/` directory, with brief documentaion on each provided.
+This repo also includes several demonstartions of the different techniques to visualize the latent space. They are found within the `demos/` directory, with brief documentaion on each provided.
 
