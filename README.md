@@ -21,13 +21,13 @@ git clone https://github.com/zabaldwin/LatentSpace-Visual/
 ```shell
 cd LatentSpace-Visual
 ```
-3. Install the required Python packages:
+3. Install the required Python packages if necessary:
 ```shell
 pip install -r requirements.txt
 ```
 
 ## Usage 
-This project currently depends on simulation data from the CMS High Granularity Colorimeter (HGCal), which models the collection of events that are anticipated during the HL-LHC upgrade. To run the main Python notebook script, 'LatentSpace_Visualization.ipynb', which visualizes the embedded latent representations, you will need the saved weights from the original CAE, as well as at least one ntuple.root file from the testing dataset.
+This project currently depends on simulation data from the CMS High Granularity Colorimeter (HGCal), which models the collection of events that are anticipated during the HL-LHC upgrade. To run the main Python notebook script, 'LatentSpace_Visualization_NewWeightsStudy.ipynb', which visualizes the embedded latent representations, you will need the saved weights from the original CAE, as well as at least one ntuple.root file from the testing dataset.
 
 ## Methodology 
 
