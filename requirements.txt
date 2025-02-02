@@ -1,0 +1,13 @@
+pip --upgrade
+setuptools --upgrade
+uproot
+awkward
+coffea
+qkeras
+tensorflow-model-optimization
+umap-learn
+numpy
+pandas
+matplotlib
+scikit-learn
+minisom
